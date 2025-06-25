@@ -1,0 +1,9 @@
+Running the Code
+
+Update the file paths in the main script:
+video_path = "path/to/15sec_input_720p.mp4"
+model_path = "path/to/best.pt"
+output_path = "path/to/output_video.mp4"
+
+Run the script:
+python player_reid.py
